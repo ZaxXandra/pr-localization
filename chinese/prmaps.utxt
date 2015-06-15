@@ -62,29 +62,29 @@ GAMEMODE_DESCRIPTION_objective                             Objective Mode. You
 GAMEMODE_DESCRIPTION_riot                                  The city is in chaos, blufor must maintain control over at least one part of the city to avoid being routed! The insurgents will recapture weapons if they hold the occupied compound.
 GAMEMODE_DESCRIPTION_assault                               Bluefor must assault Redfor's position, Redfor is already entrenched and has the defensive advantage!
 cpname_albasrah_coop16_facility                            Facility
-cpname_albasrah_coop16_mosque                              Mosque
-cpname_albasrah_coop16_offices                             Offices
-cpname_albasrah_coop16_shanty                              Shanty
-cpname_albasrah_coop16_southcheckpoint                     South Checkpoint
-cpname_albasrah_coop16_square                              Square
-cpname_albasrah_coop32_mosque                              Mosque
-cpname_albasrah_coop32_palace                              Palace 80m
+cpname_albasrah_coop16_mosque                              清真寺
+cpname_albasrah_coop16_offices                             办公室
+cpname_albasrah_coop16_shanty                              简陋的小屋
+cpname_albasrah_coop16_southcheckpoint                     南部检查站
+cpname_albasrah_coop16_square                              广场
+cpname_albasrah_coop32_mosque                              清真寺
+cpname_albasrah_coop32_palace                              宫殿 80m
 cpname_albasrah_coop32_residential                         Residencies 80m
-cpname_albasrah_coop32_citycentre                          City Centre 70m
-cpname_albasrah_coop32_slums                               Slums 100m
-cpname_albasrah_coop32_refinery                            Refinery 120m
-cpname_albasrah_coop32_vcp                                 Vehicle Checkpoint
-cpname_albasrah_coop32_albasrah                            Al Basrah Airport
-cpname_albasrah_coop64_airport                             Al Basrah Airport 45m
-cpname_albasrah_coop64_apartments                          Apartments 45m
-cpname_albasrah_coop64_mosque                              Mosque 40m
-cpname_albasrah_coop64_nvcp                                Vehicle Checkpoint 25m
-cpname_albasrah_coop64_outskirts                           Outskirts 30m
-cpname_albasrah_coop64_palace                              Palace 35m
-cpname_albasrah_coop64_refinery                            Refinery 45m
-cpname_albasrah_coop64_residental                          Residential 45m
-cpname_albasrah_coop64_slum                                Slums 55m
-cpname_albasrah_coop64_village                             Village 35m
+cpname_albasrah_coop32_citycentre                          城市中心 70m
+cpname_albasrah_coop32_slums                               贫民窟 100m
+cpname_albasrah_coop32_refinery                            炼油厂 120m
+cpname_albasrah_coop32_vcp                                 车辆检查点
+cpname_albasrah_coop32_albasrah                            巴士拉机场
+cpname_albasrah_coop64_airport                             巴士拉机场 45m
+cpname_albasrah_coop64_apartments                          公寓 45m
+cpname_albasrah_coop64_mosque                              清真寺 40m
+cpname_albasrah_coop64_nvcp                                车辆检查点 25m
+cpname_albasrah_coop64_outskirts                           郊区 30m
+cpname_albasrah_coop64_palace                              宫殿 35m
+cpname_albasrah_coop64_refinery                            炼油厂 45m
+cpname_albasrah_coop64_residental                          住宅 45m
+cpname_albasrah_coop64_slum                                贫民窟 55m
+cpname_albasrah_coop64_village                             村庄 35m
 cpname_albasrah_insurgency16_airport                       Al Basrah Airport
 cpname_albasrah_insurgency32_airport                       Al Basrah Airport
 cpname_albasrah_insurgency64_airport                       Al Basrah Airport
