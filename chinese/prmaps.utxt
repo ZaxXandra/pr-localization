@@ -85,13 +85,13 @@ cpname_albasrah_coop64_refinery                            炼油厂 45m
 cpname_albasrah_coop64_residental                          住宅 45m
 cpname_albasrah_coop64_slum                                贫民窟 55m
 cpname_albasrah_coop64_village                             村庄 35m
-cpname_albasrah_insurgency16_airport                       Al Basrah Airport
-cpname_albasrah_insurgency32_airport                       Al Basrah Airport
-cpname_albasrah_insurgency64_airport                       Al Basrah Airport
-cpname_albasrah_insurgency16_mosque                        Mosque
-cpname_albasrah_insurgency32_mosque                        Mosque
-cpname_albasrah_insurgency64_mosque                        Mosque
-cpname_albasrah_skirmish16_construction                    Construction Site
+cpname_albasrah_insurgency16_airport                       巴士拉机场
+cpname_albasrah_insurgency32_airport                       巴士拉机场
+cpname_albasrah_insurgency64_airport                       巴士拉机场
+cpname_albasrah_insurgency16_mosque                        清真寺
+cpname_albasrah_insurgency32_mosque                        清真寺
+cpname_albasrah_insurgency64_mosque                        清真寺
+cpname_albasrah_skirmish16_construction                    工地
 cpname_albasrah_skirmish16_docks                           Docks
 cpname_albasrah_skirmish16_facility                        Facility
 cpname_albasrah_skirmish16_mosque                          Mosque Entrance
