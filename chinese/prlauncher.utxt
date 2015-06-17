@@ -1,19 +1,19 @@
 ﻿LAUNCHER_TITLES_GENERIC                               真实计划：战地2
 LAUNCHER_TITLES_LAUNCHER                              真实计划：战地2 启动器
 LAUNCHER_TITLES_INITIALSETUP                          真实计划：战地2 初始设定
-LAUNCHER_TITLES_SELECTPROFILE                         选择文件
-LAUNCHER_TITLES_MANAGEPROFILES                        管理文件
-LAUNCHER_TITLES_LAUNCHING                             启动真实计划：战地2
-LAUNCHER_TITLES_CLEANING                              关闭真实计划：战地2
+LAUNCHER_TITLES_SELECTPROFILE                         选择档案
+LAUNCHER_TITLES_MANAGEPROFILES                        管理档案
+LAUNCHER_TITLES_LAUNCHING                             启动真实计划：战地2中
+LAUNCHER_TITLES_CLEANING                              关闭真实计划：战地2中
 LAUNCHER_TITLES_UPDATEDOWNLOAD                        下载更新
-LAUNCHER_TITLES_CREATEPROFILE                         创建真实计划：战地2文件
+LAUNCHER_TITLES_CREATEPROFILE                         创建真实计划：战地2档案
 LAUNCHER_TITLES_TERMS                                 接受条件
 LAUNCHER_TITLES_CREATEACCOUNT                         创建账户
 LAUNCHER_TITLES_RETRIEVEACCOUNT                       恢复账户
-LAUNCHER_TITLES_IMPORTBF2PROFILE                      Import Battlefield 2 Profile
-LAUNCHER_TITLES_PROFILECOMPLETE                       Project Reality: BF2 Profile Complete
-LAUNCHER_TITLES_OPTIONS                               Project Reality: BF2 Options
-LAUNCHER_TITLES_SUPPORT                               Project Reality: BF2 Support
+LAUNCHER_TITLES_IMPORTBF2PROFILE                      导入战地2档案
+LAUNCHER_TITLES_PROFILECOMPLETE                       真实计划：战地2档案完成
+LAUNCHER_TITLES_OPTIONS                               真实计划：战地2选项
+LAUNCHER_TITLES_SUPPORT                               真实计划：战地2支持
 LAUNCHER_TITLES_CHANGECDKEY                           更改CD Key
 UPDATER_TITLES_UPDATER                                真实计划：战地2 更新器
 UPDATER_TITLES_ACCEPTLICENSE                          接受许可
@@ -31,11 +31,11 @@ LAUNCHER_MAIN_BUTTON_PLAY_CONTEXT_CHECKUPDATES        检查更新
 LAUNCHER_MAIN_BUTTON_PLAY_CONTEXT_SELECTPROFILE       选择文件
 LAUNCHER_MAIN_NEWS_LOADING                            加载消息...
 LAUNCHER_MAIN_NEWS_ERROR                              加载消息错误...
-LAUNCHER_MAIN_SOCIAL_FACEBOOK                         Find us on Facebook
-LAUNCHER_MAIN_SOCIAL_TWITTER                          Follow us on Twitter
-LAUNCHER_MAIN_SOCIAL_YOUTUBE                          Subscribe to us on Youtube
-LAUNCHER_MAIN_SOCIAL_IRC                              Chat with us on IRC
-LAUNCHER_MAIN_SOCIAL_FORUMS                           游览官方论坛
+LAUNCHER_MAIN_SOCIAL_FACEBOOK                         寻找我们在Facebook
+LAUNCHER_MAIN_SOCIAL_TWITTER                          跟随我们在Twitter
+LAUNCHER_MAIN_SOCIAL_YOUTUBE                          订阅我们在Youtube
+LAUNCHER_MAIN_SOCIAL_IRC                              跟我们聊天在IRC
+LAUNCHER_MAIN_SOCIAL_FORUMS                           浏览官方论坛
 LAUNCHER_MAIN_CREDITS_BACK                            后退
 LAUNCHER_MESSAGEBOX_OK                                好的
 LAUNCHER_MESSAGEBOX_CANCEL                            取消
@@ -43,20 +43,20 @@ LAUNCHER_MESSAGEBOX_YES                               是的
 LAUNCHER_MESSAGEBOX_NO                                不是
 LAUNCHER_MESSAGEBOX_SKIP                              跳过
 LAUNCHER_MESSAGEBOX_UPDATE                            更新
-LAUNCHER_PROXY_AUTHENTICATION_TITLE                   Proxy Authentication
-LAUNCHER_PROXY_AUTHENTICATION_DESC                    Proxy Authentication Required. Please enter your username and password below.
-LAUNCHER_PROXY_AUTHENTICATION_USERNAME                Username
-LAUNCHER_PROXY_AUTHENTICATION_PASSWORD                Password
-LAUNCHER_PROFILE_PROFILETYPE_ONLINE                   Online
-LAUNCHER_PROFILE_PROFILETYPE_OFFLINE                  Offline
+LAUNCHER_PROXY_AUTHENTICATION_TITLE                   代理认证
+LAUNCHER_PROXY_AUTHENTICATION_DESC                    需要代理认证。请在以下输入你的用户名称和密码。
+LAUNCHER_PROXY_AUTHENTICATION_USERNAME                用户名称
+LAUNCHER_PROXY_AUTHENTICATION_PASSWORD                密码
+LAUNCHER_PROFILE_PROFILETYPE_ONLINE                   线上
+LAUNCHER_PROFILE_PROFILETYPE_OFFLINE                  离线
 LAUNCHER_PROFILE_LAUNCHTYPE_NORMAL                    PR:BF2
-LAUNCHER_PROFILE_LAUNCHTYPE_DEBUGGER                  Debug
-LAUNCHER_INITIALSETUP_CONFIRMEXIT                     Are you sure you want to cancel the initial setup wizard?
-LAUNCHER_INITIALSETUP_CONFIRMEXIT_HEADER              Confirm exit
-LAUNCHER_INITIALSETUP_NEWPROFILE_DESC1                Please select one of the following options to create a new Project Reality: BF2 profile.
+LAUNCHER_PROFILE_LAUNCHTYPE_DEBUGGER                  调试
+LAUNCHER_INITIALSETUP_CONFIRMEXIT                     你确定想要取消初始安装向导？
+LAUNCHER_INITIALSETUP_CONFIRMEXIT_HEADER              确定退出
+LAUNCHER_INITIALSETUP_NEWPROFILE_DESC1                请选择下列的其中一个选项，以创建新的真实计划：战地2档案.
 LAUNCHER_INITIALSETUP_NEWPROFILE_DESC2                Note: GameSpy is used to handle Project Reality: BF2 profiles. If you already have a GameSpy account, you can retrieve that account for use in your profile.
-LAUNCHER_INITIALSETUP_NEWPROFILE_CREATE               Create New Account
-LAUNCHER_INITIALSETUP_NEWPROFILE_RETRIEVE             Retrieve Existing Account
+LAUNCHER_INITIALSETUP_NEWPROFILE_CREATE               创建新的账号
+LAUNCHER_INITIALSETUP_NEWPROFILE_RETRIEVE             恢复现有的账号
 LAUNCHER_INITIALSETUP_NEWPROFILE_IMPORT               Import Existing Battlefield 2 Profile
 LAUNCHER_INITIALSETUP_NEWPROFILE_GAMESPYTM            GameSpy and the "Powered by GameSpy" design are trademarks of GameSpy Industries, Inc.  All rights reserved.
 LAUNCHER_INITIALSETUP_TERMS_TERMS1                    By clicking "Accept", you will register with GameSpy and you are sending account data directly to GameSpy. You agree that the use of your account data is subject to the IGN Entertainment, Inc. Privacy Policy and the IGN Entertainment, Inc. User Agreement. You also acknowledge that IGN will share your information with EA so that EA may operate the service you have elected to receive. Gameplay is also subject to the EA Terms of Service.
@@ -65,34 +65,34 @@ LAUNCHER_INITIALSETUP_TERMS_TERMS3                    Note: Offline accounts a
 LAUNCHER_INITIALSETUP_TERMS_EATERMS                   EA Terms of Service
 LAUNCHER_INITIALSETUP_TERMS_IGNPRIVACY                IGN Privacy Policy
 LAUNCHER_INITIALSETUP_TERMS_IGNAGREEMENT              IGN User Agreement
-LAUNCHER_INITIALSETUP_TERMS_ACCEPT                    Accept
-LAUNCHER_INITIALSETUP_TERMS_DECLINE                   Decline
+LAUNCHER_INITIALSETUP_TERMS_ACCEPT                    同意
+LAUNCHER_INITIALSETUP_TERMS_DECLINE                   不同意
 LAUNCHER_INITIALSETUP_CREATEACCOUNT_DESC              Please select the type of account you wish to create, fill out the required details, and press "Create" to continue. Press "Back" to return to the previous page.
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_ONLINETAB         Online Account
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_OFFLINETAB        Offline Account
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_NAMEONLINE        Account Name (In-game Name)
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_NAMEOFFLINE       In-game Name
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_EMAIL             Email Address
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_PASSWORD          Password
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_CONFIRMPASS       Confirm Password
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_REMEMBERPASS      Remember Password
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_CREATE            Create
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_BACK              Back
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_ONLINETAB         线上账号
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_OFFLINETAB        离线账号
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_NAMEONLINE        账号名称(游戏里的名称)
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_NAMEOFFLINE       游戏里的名称
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_EMAIL             电子邮件地址
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_PASSWORD          密码
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_CONFIRMPASS       确定密码
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_REMEMBERPASS      记住密码
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_CREATE            创建
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_BACK              返回
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_DESC            Please select the method you by which you wish to retrieve your existing profile, fill out the required details, and press "Retrieve" to continue. Press "Back" to return to the previous page.
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_EMAILTAB        Retrieve Via Email
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_USERNAMETAB     Retrieve Via Username
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_EMAIL           Email Address
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_USERNAME        Account Name (In-game Name)
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_PASSWORD        Password
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_EMAIL           电子邮件地址
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_USERNAME        账号名称(游戏里的名称)
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_PASSWORD        密码
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_SELECTPROFILE   Please select the profile you wish to retrieve, and press "Retrieve" again to confirm profile retrieval.
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_RETRIEVE        Retrieve
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_BACK            Back
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_RETRIEVE        恢复
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_BACK            返回
 LAUNCHER_INITIALSETUP_IMPORTBF2_DESC                  Please select your existing Battlefield 2 profile to import and press "Import", or press "Back" to return to the previous page.
 LAUNCHER_INITIALSETUP_IMPORTBF2_DESCNOPR              No existing Project Reality: BF2 profiles have been found. Please select your existing Battlefield 2 profile to import and press "Import", or press "Back" to create or retrieve an account.
-LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILETYPE           Profile Type
-LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILENAME           Profile Name
-LAUNCHER_INITIALSETUP_IMPORTBF2_IMPORT                Import
-LAUNCHER_INITIALSETUP_IMPORTBF2_BACK                  Back
+LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILETYPE           档案类型
+LAUNCHER_INITIALSETUP_IMPORTBF2_PROFILENAME           档案名称
+LAUNCHER_INITIALSETUP_IMPORTBF2_IMPORT                导入
+LAUNCHER_INITIALSETUP_IMPORTBF2_BACK                  返回
 LAUNCHER_INITIALSETUP_FINISHED_DESCSINGLE             Your Project Reality: BF2 profile has been successfully created. You are now ready to play! Before you do however, please take some time to read the following short message from the Project Reality Team, then press "Finish" to continue.
 LAUNCHER_INITIALSETUP_FINISHED_DESCMULTI              Your Project Reality: BF2 profiles have been successfully created. You are now ready to play! Before you do however, please take some time to read the following short message from the Project Reality Team, then press "Finish" to continue.
 LAUNCHER_INITIALSETUP_FINISHED_HEADER1                Having technical issues?
@@ -103,126 +103,126 @@ LAUNCHER_INITIALSETUP_FINISHED_HEADER3                Any other questions?
 LAUNCHER_INITIALSETUP_FINISHED_TEXT3                  If you didn't find the answer you were looking for, or you just want to share your thoughts on the game, please don't hesitate to contact us through our social media pages or via our forums. The links to these pages can be found at the top left of the launcher.
 LAUNCHER_INITIALSETUP_FINISHED_TEXT4                  Thanks for playing, and we hope you enjoy the game!
 LAUNCHER_INITIALSETUP_FINISHED_TEXT5                  - The Project Reality Team
-LAUNCHER_INITIALSETUP_FINISHED_FINISH                 Finish
+LAUNCHER_INITIALSETUP_FINISHED_FINISH                 完成
 LAUNCHER_SELECTPROFILE_DESC                           Please select the profile you want to use, confirm any passwords and options, then press "Login" to launch Project Reality: BF2.
-LAUNCHER_SELECTPROFILE_PASSWORD                       Password
-LAUNCHER_SELECTPROFILE_PREFIX                         Profile Name Prefix
-LAUNCHER_SELECTPROFILE_REMEMBERPASSWORD               Remember password for the selected profile
-LAUNCHER_SELECTPROFILE_ALWAYSUSEPROFILE               Always use selected profile
-LAUNCHER_SELECTPROFILE_MANAGE                         Manage Profiles
-LAUNCHER_SELECTPROFILE_LOGIN                          Login
+LAUNCHER_SELECTPROFILE_PASSWORD                       密码
+LAUNCHER_SELECTPROFILE_PREFIX                         档案名称的前缀
+LAUNCHER_SELECTPROFILE_REMEMBERPASSWORD               记住已经选择的档案密码
+LAUNCHER_SELECTPROFILE_ALWAYSUSEPROFILE               一直使用已经选择的档案
+LAUNCHER_SELECTPROFILE_MANAGE                         管理档案
+LAUNCHER_SELECTPROFILE_LOGIN                          登陆
 LAUNCHER_MANAGEPROFILES_DESC                          To create a new profile, please select "Create Profile". To delete an existing profile, select the profile and press "Delete Profile".
 LAUNCHER_MANAGEPROFILES_DESCDEBUG                     To create a new profile, please select "Create Profile". To delete an existing profile, select the profile and press "Delete Profile". Use "Convert Profile" to convert between a Normal and a Debug profile. When converting a profile, the controls will be reset to default. Only Debug profiles can be used with the Project Reality: BF2 Debugger.
-LAUNCHER_MANAGEPROFILES_CONFIRMDELETE                 Are you sure you want to delete this profile? All settings will be lost!
-LAUNCHER_MANAGEPROFILES_CONFIRMDELETEHEADER           Confirm Delete
-LAUNCHER_MANAGEPROFILES_CREATE                        Create Profile
-LAUNCHER_MANAGEPROFILES_DELETE                        Delete Profile
-LAUNCHER_MANAGEPROFILES_CONVERT                       Convert Profile
-LAUNCHER_MANAGEPROFILES_DONE                          Done
-LAUNCHER_LAUNCH_CANCEL                                Cancel
-LAUNCHER_LAUNCH_CANCELLING                            Cancelling...
-LAUNCHER_LAUNCH_LOGIN                                 Connecting to profile...
-LAUNCHER_LAUNCH_UPDATING                              Checking for updates...
-LAUNCHER_LAUNCH_VERIFYFILES                           Verifying client files...
-LAUNCHER_LAUNCH_LAUNCHING                             Launching game...
-LAUNCHER_LAUNCH_CLEANING                              PR:BF2 has closed, cleaning up resources...
-LAUNCHER_LAUNCH_ERROR                                 Launch Error
-LAUNCHER_LAUNCH_WARNING                               Launch Warning
-LAUNCHER_LAUNCH_VERIFICATIONERROR                     File Verification Error
+LAUNCHER_MANAGEPROFILES_CONFIRMDELETE                 你确定你要删除这个档案？所有的设置都将丢失！
+LAUNCHER_MANAGEPROFILES_CONFIRMDELETEHEADER           确定删除
+LAUNCHER_MANAGEPROFILES_CREATE                        创建档案
+LAUNCHER_MANAGEPROFILES_DELETE                        删除档案
+LAUNCHER_MANAGEPROFILES_CONVERT                       转换档案
+LAUNCHER_MANAGEPROFILES_DONE                          完成
+LAUNCHER_LAUNCH_CANCEL                                取消
+LAUNCHER_LAUNCH_CANCELLING                            取消中...
+LAUNCHER_LAUNCH_LOGIN                                 连接档案中...
+LAUNCHER_LAUNCH_UPDATING                              检查更新...
+LAUNCHER_LAUNCH_VERIFYFILES                           验证客户端文件...
+LAUNCHER_LAUNCH_LAUNCHING                             启动游戏中...
+LAUNCHER_LAUNCH_CLEANING                              PR:BF2已关闭, 清理资源中...
+LAUNCHER_LAUNCH_ERROR                                 启动错误
+LAUNCHER_LAUNCH_WARNING                               启动警告
+LAUNCHER_LAUNCH_VERIFICATIONERROR                     文件验证错误
 LAUNCHER_LAUNCH_VERIFICATIONSKIPCONFIRM               If you choose to skip file verification you will not be able to play on public servers. Do you want to skip file verification?
-LAUNCHER_LAUNCH_VERIFICATIONSKIPCONFIRMHEADER         Confirm Skip Verification
-LAUNCHER_LAUNCH_UPDATEAVAILABLEHEADER                 Update Available
+LAUNCHER_LAUNCH_VERIFICATIONSKIPCONFIRMHEADER         确认跳过验证
+LAUNCHER_LAUNCH_UPDATEAVAILABLEHEADER                 有更新可用
 LAUNCHER_LAUNCH_UPDATEAVAILABLE                       A new update is available to download, do you wish to install this update now?
 
 Note: If you choose to skip the update, you will not be able to play on public servers.
-LAUNCHER_LAUNCH_LATESTVERSIONHEADER                   Running Latest Version
+LAUNCHER_LAUNCH_LATESTVERSIONHEADER                   运行最新版本
 LAUNCHER_LAUNCH_LATESTVERSION                         You are currently running the latest version of Project Reality: BF2
-LAUNCHER_UPDATEDOWNLOAD_ERROR                         Download Error
-LAUNCHER_UPDATEDOWNLOAD_NAME                          Name:
-LAUNCHER_UPDATEDOWNLOAD_CHANGELOG                     Changelog
-LAUNCHER_UPDATEDOWNLOAD_TIMEREMAINING                 Time remaining:
-LAUNCHER_UPDATEDOWNLOAD_DOWNLOADED                    Downloaded:
-LAUNCHER_UPDATEDOWNLOAD_UPDATESREMAINING              Updates remaining:
+LAUNCHER_UPDATEDOWNLOAD_ERROR                         下载错误
+LAUNCHER_UPDATEDOWNLOAD_NAME                          名称:
+LAUNCHER_UPDATEDOWNLOAD_CHANGELOG                     更新记录
+LAUNCHER_UPDATEDOWNLOAD_TIMEREMAINING                 剩余时间:
+LAUNCHER_UPDATEDOWNLOAD_DOWNLOADED                    已经下载:
+LAUNCHER_UPDATEDOWNLOAD_UPDATESREMAINING              剩余更新:
 LAUNCHER_UPDATEDOWNLOAD_CONTENTHOSTING                Content hosting provided by:
-LAUNCHER_UPDATEDOWNLOAD_PROGRESSCOMPLETE              {0}% Complete
+LAUNCHER_UPDATEDOWNLOAD_PROGRESSCOMPLETE              {0}% 完成
 LAUNCHER_UPDATEDOWNLOAD_CONFIRMCANCEL                 Are you sure you want to cancel? Any unfinished downloads will be lost.
-LAUNCHER_UPDATEDOWNLOAD_CONFIRMCANCELHEADER           Confirm Cancellation
-LAUNCHER_UPDATEDOWNLOAD_STATUS_GETINFO                Getting update information...
-LAUNCHER_UPDATEDOWNLOAD_STATUS_CONNECTING             Connecting to server...
-LAUNCHER_UPDATEDOWNLOAD_STATUS_DOWNLOADING            Downloading...
-LAUNCHER_UPDATEDOWNLOAD_STATUS_CANCELLING             Cancelling...
-LAUNCHER_UPDATEDOWNLOAD_STATUS_PAUSING                Pausing...
-LAUNCHER_UPDATEDOWNLOAD_STATUS_PAUSED                 Download paused
-LAUNCHER_UPDATEDOWNLOAD_STATUS_VALIDATING             Validating file...
-LAUNCHER_UPDATEDOWNLOAD_STATUS_COMPLETE               Complete
-LAUNCHER_UPDATEDOWNLOAD_TIME_ABOUT                    About
-LAUNCHER_UPDATEDOWNLOAD_TIME_CALCULATING              Calculating...
+LAUNCHER_UPDATEDOWNLOAD_CONFIRMCANCELHEADER           确认取消
+LAUNCHER_UPDATEDOWNLOAD_STATUS_GETINFO                获取更新信息...
+LAUNCHER_UPDATEDOWNLOAD_STATUS_CONNECTING             连接到服务器...
+LAUNCHER_UPDATEDOWNLOAD_STATUS_DOWNLOADING            下载中...
+LAUNCHER_UPDATEDOWNLOAD_STATUS_CANCELLING             取消中·...
+LAUNCHER_UPDATEDOWNLOAD_STATUS_PAUSING                暂停中...
+LAUNCHER_UPDATEDOWNLOAD_STATUS_PAUSED                 下载已暂停
+LAUNCHER_UPDATEDOWNLOAD_STATUS_VALIDATING             验证文件中...
+LAUNCHER_UPDATEDOWNLOAD_STATUS_COMPLETE               完成
+LAUNCHER_UPDATEDOWNLOAD_TIME_ABOUT                    大约
+LAUNCHER_UPDATEDOWNLOAD_TIME_CALCULATING              计算中...
 LAUNCHER_UPDATEDOWNLOAD_TIME_CANNOTCALCULATE          N/A
-LAUNCHER_UPDATEDOWNLOAD_TIME_IMMINENT                 A few seconds...
-LAUNCHER_UPDATEDOWNLOAD_TIME_SECONDS                  seconds
-LAUNCHER_UPDATEDOWNLOAD_TIME_MINUTE                   minute
-LAUNCHER_UPDATEDOWNLOAD_TIME_MINUTES                  minutes
-LAUNCHER_UPDATEDOWNLOAD_TIME_HOUR                     hour
-LAUNCHER_UPDATEDOWNLOAD_TIME_HOURS                    hours
-LAUNCHER_UPDATEDOWNLOAD_TIME_DAY                      day
-LAUNCHER_UPDATEDOWNLOAD_TIME_DAYS                     days
-LAUNCHER_UPDATEDOWNLOAD_TIME_MORE                     More than
-LAUNCHER_UPDATESUCCESS                                Successfully updated to v{0}
-LAUNCHER_UPDATESUCCESS_CHANGELOG                      View the changelog
-LAUNCHER_UPDATESUCCESS_HEADER                         Update Success
-LAUNCHER_OPTIONS_APPLY                                Apply
-LAUNCHER_OPTIONS_CLOSE                                Close
-LAUNCHER_OPTIONS_RESETPROFILES                        Reset All Profiles
-LAUNCHER_OPTIONS_RESETPROFILES_CONFIRM                Are you sure you want to reset all profiles back to their default settings?
-LAUNCHER_OPTIONS_RESETPROFILES_CONFIRMHEADER          Confirm Reset
-LAUNCHER_OPTIONS_SELECTEDPROFILE                      Selected Profile:
-LAUNCHER_OPTIONS_BASICSETTINGS                        Basic Settings
-LAUNCHER_OPTIONS_ADVANCEDSETTINGS                     Advanced Settings
-LAUNCHER_OPTIONS_BROWSE                               Browse
-LAUNCHER_OPTIONS_BROWSETITLE                          Browse Directory
-LAUNCHER_OPTIONS_SETTINGSSAVED                        Settings Saved
-LAUNCHER_OPTIONS_TAB_VIDEO                            Video
-LAUNCHER_OPTIONS_TAB_GRAPHICS                         Graphics
-LAUNCHER_OPTIONS_TAB_AUDIO                            Audio
-LAUNCHER_OPTIONS_TAB_GLOBAL                           Global
+LAUNCHER_UPDATEDOWNLOAD_TIME_IMMINENT                 几秒...
+LAUNCHER_UPDATEDOWNLOAD_TIME_SECONDS                  秒
+LAUNCHER_UPDATEDOWNLOAD_TIME_MINUTE                   分钟
+LAUNCHER_UPDATEDOWNLOAD_TIME_MINUTES                  分钟
+LAUNCHER_UPDATEDOWNLOAD_TIME_HOUR                     小时
+LAUNCHER_UPDATEDOWNLOAD_TIME_HOURS                    小时
+LAUNCHER_UPDATEDOWNLOAD_TIME_DAY                      天
+LAUNCHER_UPDATEDOWNLOAD_TIME_DAYS                     天
+LAUNCHER_UPDATEDOWNLOAD_TIME_MORE                     超过
+LAUNCHER_UPDATESUCCESS                                成功更新至 v{0}
+LAUNCHER_UPDATESUCCESS_CHANGELOG                      查看更新记录
+LAUNCHER_UPDATESUCCESS_HEADER                         更新成功
+LAUNCHER_OPTIONS_APPLY                                套用
+LAUNCHER_OPTIONS_CLOSE                                关闭
+LAUNCHER_OPTIONS_RESETPROFILES                        重置所有档案
+LAUNCHER_OPTIONS_RESETPROFILES_CONFIRM                你确定你要重置所有档案回到默认设置？
+LAUNCHER_OPTIONS_RESETPROFILES_CONFIRMHEADER          确定重置
+LAUNCHER_OPTIONS_SELECTEDPROFILE                      已经选择的档案:
+LAUNCHER_OPTIONS_BASICSETTINGS                        基本设定
+LAUNCHER_OPTIONS_ADVANCEDSETTINGS                     高级设定
+LAUNCHER_OPTIONS_BROWSE                               浏览
+LAUNCHER_OPTIONS_BROWSETITLE                          浏览目录
+LAUNCHER_OPTIONS_SETTINGSSAVED                        设定已经储存
+LAUNCHER_OPTIONS_TAB_VIDEO                            视频
+LAUNCHER_OPTIONS_TAB_GRAPHICS                         图形
+LAUNCHER_OPTIONS_TAB_AUDIO                            音频
+LAUNCHER_OPTIONS_TAB_GLOBAL                           全球
 LAUNCHER_OPTIONS_TAB_PRMUMBLE                         PR Mumble
 LAUNCHER_OPTIONS_PROMPT_SAVESETTINGS                  Do you want to save the changed settings before you continue?
-LAUNCHER_OPTIONS_PROMPT_SAVESETTINGSHEADER            Save Settings
-LAUNCHER_OPTIONS_VIDEO_RESOLUTION                     Display Mode
-LAUNCHER_OPTIONS_VIDEO_GRAPHICSSCHEME                 Graphics Quality
-LAUNCHER_OPTIONS_VIDEO_MULTISAMPLING                  Anti-Aliasing
-LAUNCHER_OPTIONS_VIDEO_FULLSCREEN                     Fullscreen
-LAUNCHER_OPTIONS_VIDEO_VSYNC                          VSync
-LAUNCHER_OPTIONS_VIDEO_CUSTOMRES                      Custom Resolution:
-LAUNCHER_OPTIONS_VIDEO_CUSTOMRESHORIZONTAL            Horizontal
-LAUNCHER_OPTIONS_VIDEO_CUSTOMRESVERTICAL              Vertical
-LAUNCHER_OPTIONS_VIDEO_CUSTOMPOS                      Custom Position:
-LAUNCHER_OPTIONS_VIDEO_CUSTOMPOSHORIZONTAL            Horizontal
-LAUNCHER_OPTIONS_VIDEO_CUSTOMPOSVERTICAL              Vertical
-LAUNCHER_OPTIONS_VIDEO_VIEWDISTANCE                   View Distance Scale
-LAUNCHER_OPTIONS_GRAPHICS_TERRAIN                     Terrain Quality
-LAUNCHER_OPTIONS_GRAPHICS_EFFECTS                     Effects Quality
-LAUNCHER_OPTIONS_GRAPHICS_GEOMETRY                    Geometry Quality
-LAUNCHER_OPTIONS_GRAPHICS_TEXTURE                     Texture Quality
-LAUNCHER_OPTIONS_GRAPHICS_LIGHTING                    Lighting Quality
-LAUNCHER_OPTIONS_GRAPHICS_DYNAMICSHADOWS              Dynamic Shadows
-LAUNCHER_OPTIONS_GRAPHICS_DYNAMICLIGHT                Dynamic Light
-LAUNCHER_OPTIONS_GRAPHICS_TEXTUREFILTERING            Texture Filtering
-LAUNCHER_OPTIONS_AUDIO_PROVIDER                       Provider
-LAUNCHER_OPTIONS_AUDIO_QUALITY                        Quality
+LAUNCHER_OPTIONS_PROMPT_SAVESETTINGSHEADER            储存设定
+LAUNCHER_OPTIONS_VIDEO_RESOLUTION                     显示模式
+LAUNCHER_OPTIONS_VIDEO_GRAPHICSSCHEME                 图形质量
+LAUNCHER_OPTIONS_VIDEO_MULTISAMPLING                  抗锯齿轮
+LAUNCHER_OPTIONS_VIDEO_FULLSCREEN                     全屏
+LAUNCHER_OPTIONS_VIDEO_VSYNC                          垂直同步
+LAUNCHER_OPTIONS_VIDEO_CUSTOMRES                      自定义分辨率:
+LAUNCHER_OPTIONS_VIDEO_CUSTOMRESHORIZONTAL            水平
+LAUNCHER_OPTIONS_VIDEO_CUSTOMRESVERTICAL              垂直
+LAUNCHER_OPTIONS_VIDEO_CUSTOMPOS                      自定义位置:
+LAUNCHER_OPTIONS_VIDEO_CUSTOMPOSHORIZONTAL            水平
+LAUNCHER_OPTIONS_VIDEO_CUSTOMPOSVERTICAL              垂直
+LAUNCHER_OPTIONS_VIDEO_VIEWDISTANCE                   查看距离比例
+LAUNCHER_OPTIONS_GRAPHICS_TERRAIN                     地形质量
+LAUNCHER_OPTIONS_GRAPHICS_EFFECTS                     效果质量
+LAUNCHER_OPTIONS_GRAPHICS_GEOMETRY                    几何质量
+LAUNCHER_OPTIONS_GRAPHICS_TEXTURE                     纹理质量
+LAUNCHER_OPTIONS_GRAPHICS_LIGHTING                    光阴质量
+LAUNCHER_OPTIONS_GRAPHICS_DYNAMICSHADOWS              动态阴影
+LAUNCHER_OPTIONS_GRAPHICS_DYNAMICLIGHT                动态光阴
+LAUNCHER_OPTIONS_GRAPHICS_TEXTUREFILTERING            纹理过滤
+LAUNCHER_OPTIONS_AUDIO_PROVIDER                       供应商
+LAUNCHER_OPTIONS_AUDIO_QUALITY                        质量
 LAUNCHER_OPTIONS_AUDIO_EAXENABLED                     EAX
 LAUNCHER_OPTIONS_AUDIO_TRANSMITBEEP                   Squad Radio Transmit Audio Cue
 LAUNCHER_OPTIONS_AUDIO_RECEIVEBEEP                    Squad Radio Receive Audio Cue
 LAUNCHER_OPTIONS_AUDIO_OFFICERTRANSMITBEEP            Officer Radio Transmit Audio Cue
 LAUNCHER_OPTIONS_AUDIO_OFFICERRECEIVEBEEP             Officer Radio Receive Audio Cue
 LAUNCHER_OPTIONS_AUDIO_BEEPVOLUME                     Audio Cue Volume
-LAUNCHER_OPTIONS_GLOBAL_LANGUAGE                      Language
-LAUNCHER_OPTIONS_GLOBAL_VIEWINTROMOVIES               View Intro Movies
-LAUNCHER_OPTIONS_GLOBAL_ENABLERCONCOMMANDS            Enable Local RCON Commands
+LAUNCHER_OPTIONS_GLOBAL_LANGUAGE                      语言
+LAUNCHER_OPTIONS_GLOBAL_VIEWINTROMOVIES               查看电影简介
+LAUNCHER_OPTIONS_GLOBAL_ENABLERCONCOMMANDS            启动本地RCON命令
 LAUNCHER_OPTIONS_GLOBAL_CLEARSERVERSLAUNCH            Clear Server Favorites/History on Launch
-LAUNCHER_OPTIONS_GLOBAL_UPDATEDOWNLOADDIRECTORY       Update Download Location
-LAUNCHER_OPTIONS_GLOBAL_UPDATELOGDIRECTORY            Update Log Location
-LAUNCHER_OPTIONS_GLOBAL_UPDATEKEEPFILES               Keep Update Files
+LAUNCHER_OPTIONS_GLOBAL_UPDATEDOWNLOADDIRECTORY       更新下载位置
+LAUNCHER_OPTIONS_GLOBAL_UPDATELOGDIRECTORY            更新记录位置
+LAUNCHER_OPTIONS_GLOBAL_UPDATEKEEPFILES               保持文件更新
 LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHHEADER                Launch Project Reality Mumble
 LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHDESC                  To configure advanced options, please launch PR Mumble and configure the settings via "Configure -> Settings". After configuration, please close PR Mumble to continue. Shortcuts can be configured below without needing to launch PR Mumble.
 LAUNCHER_OPTIONS_PRMUMBLE_LAUNCH                      Launch
@@ -282,18 +282,18 @@ LAUNCHER_CHANGECDKEY_NONE_DESC                        No CD Key was found.
 Please enter your CD Key (dashes will be automatically inserted)
 You can not change your CD Key once entered, please ensure it is unique and does not contain errors.
 LAUNCHER_CHANGECDKEY_CHANGING                         Changing CD Key, please wait...
-LAUNCHER_CHANGECDKEY_OK                               OK
-LAUNCHER_SETTINGS_YES                                 Yes
-LAUNCHER_SETTINGS_NO                                  No
-LAUNCHER_SETTINGS_LOW                                 Low
-LAUNCHER_SETTINGS_MEDIUM                              Medium
-LAUNCHER_SETTINGS_HIGH                                High
-LAUNCHER_SETTINGS_ULTRAHIGH                           Ultra High
-LAUNCHER_SETTINGS_OFF                                 Off
-LAUNCHER_SETTINGS_CUSTOM                              Custom
+LAUNCHER_CHANGECDKEY_OK                               好的
+LAUNCHER_SETTINGS_YES                                 是的
+LAUNCHER_SETTINGS_NO                                  不是
+LAUNCHER_SETTINGS_LOW                                 低
+LAUNCHER_SETTINGS_MEDIUM                              中
+LAUNCHER_SETTINGS_HIGH                                高
+LAUNCHER_SETTINGS_ULTRAHIGH                           最高
+LAUNCHER_SETTINGS_OFF                                 关闭
+LAUNCHER_SETTINGS_CUSTOM                              随机
 LAUNCHER_SETTINGS_MULTISAMPLING                       {0}x
-LAUNCHER_SETTINGS_SOFTWARE                            Software
-LAUNCHER_SETTINGS_HARDWARE                            Hardware
+LAUNCHER_SETTINGS_SOFTWARE                            软件
+LAUNCHER_SETTINGS_HARDWARE                            硬件
 LAUNCHER_SETTINGS_CREATIVE                            Creative X-Fi
 LAUNCHER_CREDITS_TITLE_CONTINUED                      (CONTINUED)
 LAUNCHER_CREDITS_TITLE_PROJECTMANAGER                 PROJECT MANAGER
