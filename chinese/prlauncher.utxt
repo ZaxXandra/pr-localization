@@ -290,7 +290,7 @@ LAUNCHER_SETTINGS_MEDIUM                              中
 LAUNCHER_SETTINGS_HIGH                                高
 LAUNCHER_SETTINGS_ULTRAHIGH                           最高
 LAUNCHER_SETTINGS_OFF                                 关闭
-LAUNCHER_SETTINGS_CUSTOM                              随机
+LAUNCHER_SETTINGS_CUSTOM                              自定义
 LAUNCHER_SETTINGS_MULTISAMPLING                       {0}x
 LAUNCHER_SETTINGS_SOFTWARE                            软件
 LAUNCHER_SETTINGS_HARDWARE                            硬件
