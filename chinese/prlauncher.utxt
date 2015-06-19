@@ -3,17 +3,17 @@ LAUNCHER_TITLES_LAUNCHER                              真实计划：战地2 �
 LAUNCHER_TITLES_INITIALSETUP                          真实计划：战地2 初始设定
 LAUNCHER_TITLES_SELECTPROFILE                         选择档案
 LAUNCHER_TITLES_MANAGEPROFILES                        管理档案
-LAUNCHER_TITLES_LAUNCHING                             启动真实计划：战地2中
-LAUNCHER_TITLES_CLEANING                              关闭真实计划：战地2中
+LAUNCHER_TITLES_LAUNCHING                             启动《真实计划：战地2》中
+LAUNCHER_TITLES_CLEANING                              关闭《真实计划：战地2》中
 LAUNCHER_TITLES_UPDATEDOWNLOAD                        下载更新
-LAUNCHER_TITLES_CREATEPROFILE                         创建真实计划：战地2档案
+LAUNCHER_TITLES_CREATEPROFILE                         创建《真实计划：战地2》档案
 LAUNCHER_TITLES_TERMS                                 接受条件
 LAUNCHER_TITLES_CREATEACCOUNT                         创建账户
 LAUNCHER_TITLES_RETRIEVEACCOUNT                       恢复账户
 LAUNCHER_TITLES_IMPORTBF2PROFILE                      导入战地2档案
-LAUNCHER_TITLES_PROFILECOMPLETE                       真实计划：战地2档案完成
-LAUNCHER_TITLES_OPTIONS                               真实计划：战地2选项
-LAUNCHER_TITLES_SUPPORT                               真实计划：战地2支持
+LAUNCHER_TITLES_PROFILECOMPLETE                       《真实计划：战地2》档案完成
+LAUNCHER_TITLES_OPTIONS                               《真实计划：战地2》选项
+LAUNCHER_TITLES_SUPPORT                               《真实计划：战地2》支持
 LAUNCHER_TITLES_CHANGECDKEY                           更改CD Key
 UPDATER_TITLES_UPDATER                                真实计划：战地2 更新器
 UPDATER_TITLES_ACCEPTLICENSE                          接受许可
@@ -111,9 +111,9 @@ LAUNCHER_SELECTPROFILE_REMEMBERPASSWORD               记住已经选择的档
 LAUNCHER_SELECTPROFILE_ALWAYSUSEPROFILE               一直使用已经选择的档案
 LAUNCHER_SELECTPROFILE_MANAGE                         管理档案
 LAUNCHER_SELECTPROFILE_LOGIN                          登陆
-LAUNCHER_MANAGEPROFILES_DESC                          To create a new profile, please select "Create Profile". To delete an existing profile, select the profile and press "Delete Profile".
-LAUNCHER_MANAGEPROFILES_DESCDEBUG                     To create a new profile, please select "Create Profile". To delete an existing profile, select the profile and press "Delete Profile". Use "Convert Profile" to convert between a Normal and a Debug profile. When converting a profile, the controls will be reset to default. Only Debug profiles can be used with the Project Reality: BF2 Debugger.
-LAUNCHER_MANAGEPROFILES_CONFIRMDELETE                 你确定你要删除这个档案？所有的设置都将丢失！
+LAUNCHER_MANAGEPROFILES_DESC                          要创建一个新的档案，请选择“创建档案”。要删除现有的档案，选择档案并按下“删除档案”。
+LAUNCHER_MANAGEPROFILES_DESCDEBUG                     要创建一个新的档案，请选择“创建档案”。要删除现有的档案，选择档案并按下“删除档案”。使用“转换档案” 为普通和调试档案之间的转换。当转换档案时, 控制器将会被重置为默认。只有调试档案可用于《真实计划：战地2》调试器。
+LAUNCHER_MANAGEPROFILES_CONFIRMDELETE                 你确定你要删除这个档案？这会照成之前的所有设置都将会丢失！
 LAUNCHER_MANAGEPROFILES_CONFIRMDELETEHEADER           确定删除
 LAUNCHER_MANAGEPROFILES_CREATE                        创建档案
 LAUNCHER_MANAGEPROFILES_DELETE                        删除档案
@@ -211,44 +211,44 @@ LAUNCHER_OPTIONS_GRAPHICS_TEXTUREFILTERING            纹理过滤
 LAUNCHER_OPTIONS_AUDIO_PROVIDER                       供应商
 LAUNCHER_OPTIONS_AUDIO_QUALITY                        质量
 LAUNCHER_OPTIONS_AUDIO_EAXENABLED                     EAX
-LAUNCHER_OPTIONS_AUDIO_TRANSMITBEEP                   Squad Radio Transmit Audio Cue
-LAUNCHER_OPTIONS_AUDIO_RECEIVEBEEP                    Squad Radio Receive Audio Cue
-LAUNCHER_OPTIONS_AUDIO_OFFICERTRANSMITBEEP            Officer Radio Transmit Audio Cue
-LAUNCHER_OPTIONS_AUDIO_OFFICERRECEIVEBEEP             Officer Radio Receive Audio Cue
-LAUNCHER_OPTIONS_AUDIO_BEEPVOLUME                     Audio Cue Volume
+LAUNCHER_OPTIONS_AUDIO_TRANSMITBEEP                   小队无线电传输音频提示
+LAUNCHER_OPTIONS_AUDIO_RECEIVEBEEP                    小队无线电接收音频提示
+LAUNCHER_OPTIONS_AUDIO_OFFICERTRANSMITBEEP            军官无线电传输音频提示
+LAUNCHER_OPTIONS_AUDIO_OFFICERRECEIVEBEEP             军官无线电接收音频提示
+LAUNCHER_OPTIONS_AUDIO_BEEPVOLUME                     音频提示音量
 LAUNCHER_OPTIONS_GLOBAL_LANGUAGE                      语言
 LAUNCHER_OPTIONS_GLOBAL_VIEWINTROMOVIES               查看电影简介
 LAUNCHER_OPTIONS_GLOBAL_ENABLERCONCOMMANDS            启动本地RCON命令
-LAUNCHER_OPTIONS_GLOBAL_CLEARSERVERSLAUNCH            Clear Server Favorites/History on Launch
+LAUNCHER_OPTIONS_GLOBAL_CLEARSERVERSLAUNCH            清除伺服器的收藏/启动历史
 LAUNCHER_OPTIONS_GLOBAL_UPDATEDOWNLOADDIRECTORY       更新下载位置
 LAUNCHER_OPTIONS_GLOBAL_UPDATELOGDIRECTORY            更新记录位置
 LAUNCHER_OPTIONS_GLOBAL_UPDATEKEEPFILES               保持文件更新
-LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHHEADER                Launch Project Reality Mumble
+LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHHEADER                启动《真实计划》Mumble
 LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHDESC                  To configure advanced options, please launch PR Mumble and configure the settings via "Configure -> Settings". After configuration, please close PR Mumble to continue. Shortcuts can be configured below without needing to launch PR Mumble.
-LAUNCHER_OPTIONS_PRMUMBLE_LAUNCH                      Launch
+LAUNCHER_OPTIONS_PRMUMBLE_LAUNCH                      启动
 LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHCLOSEHEADER           Close PR Mumble
 LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHCLOSE                 Please close Project Reality Mumble before continuing.
-LAUNCHER_OPTIONS_PRMUMBLE_KEYBINDS                    Shortcuts
-LAUNCHER_OPTIONS_PRMUMBLE_LOCAL                       Local Speech
-LAUNCHER_OPTIONS_PRMUMBLE_LOCAL_ALT                   Local Speech Alt
-LAUNCHER_OPTIONS_PRMUMBLE_SQUAD                       Squad Radio
-LAUNCHER_OPTIONS_PRMUMBLE_SQUAD_ALT                   Squad Radio Alt
-LAUNCHER_OPTIONS_PRMUMBLE_SLALL                       All Squad Leaders
-LAUNCHER_OPTIONS_PRMUMBLE_COMMANDER                   Commander
-LAUNCHER_OPTIONS_PRMUMBLE_SL1                         Squad Leader 1
-LAUNCHER_OPTIONS_PRMUMBLE_SL2                         Squad Leader 2
-LAUNCHER_OPTIONS_PRMUMBLE_SL3                         Squad Leader 3
-LAUNCHER_OPTIONS_PRMUMBLE_SL4                         Squad Leader 4
-LAUNCHER_OPTIONS_PRMUMBLE_SL5                         Squad Leader 5
-LAUNCHER_OPTIONS_PRMUMBLE_SL6                         Squad Leader 6
-LAUNCHER_OPTIONS_PRMUMBLE_SL7                         Squad Leader 7
-LAUNCHER_OPTIONS_PRMUMBLE_SL8                         Squad Leader 8
-LAUNCHER_OPTIONS_PRMUMBLE_SL9                         Squad Leader 9
-LAUNCHER_OPTIONS_PRMUMBLE_MUTE                        Mute Microphone
-LAUNCHER_OPTIONS_PRMUMBLE_DEAFEN                      Mute Speakers
-LAUNCHER_OPTIONS_PRMUMBLE_VOLUMEUP                    Volume Up (10%)
-LAUNCHER_OPTIONS_PRMUMBLE_VOLUMEDOWN                  Volume Down (10%)
-LAUNCHER_OPTIONS_PRMUMBLE_SETBUTTONS                  Press Shortcut(s)
+LAUNCHER_OPTIONS_PRMUMBLE_KEYBINDS                    快捷键
+LAUNCHER_OPTIONS_PRMUMBLE_LOCAL                       本地语音
+LAUNCHER_OPTIONS_PRMUMBLE_LOCAL_ALT                   本地语音 Alt
+LAUNCHER_OPTIONS_PRMUMBLE_SQUAD                       小队无线电
+LAUNCHER_OPTIONS_PRMUMBLE_SQUAD_ALT                   小队无线电 Alt
+LAUNCHER_OPTIONS_PRMUMBLE_SLALL                       所有的队长
+LAUNCHER_OPTIONS_PRMUMBLE_COMMANDER                   指挥官
+LAUNCHER_OPTIONS_PRMUMBLE_SL1                         队长 1
+LAUNCHER_OPTIONS_PRMUMBLE_SL2                         队长 2
+LAUNCHER_OPTIONS_PRMUMBLE_SL3                         队长 3
+LAUNCHER_OPTIONS_PRMUMBLE_SL4                         队长 4
+LAUNCHER_OPTIONS_PRMUMBLE_SL5                         队长 5
+LAUNCHER_OPTIONS_PRMUMBLE_SL6                         队长 6
+LAUNCHER_OPTIONS_PRMUMBLE_SL7                         队长 7
+LAUNCHER_OPTIONS_PRMUMBLE_SL8                         队长 8
+LAUNCHER_OPTIONS_PRMUMBLE_SL9                         队长 9
+LAUNCHER_OPTIONS_PRMUMBLE_MUTE                        麦克风 静音
+LAUNCHER_OPTIONS_PRMUMBLE_DEAFEN                      扬声器 静音
+LAUNCHER_OPTIONS_PRMUMBLE_VOLUMEUP                    音量提高 (10%)
+LAUNCHER_OPTIONS_PRMUMBLE_VOLUMEDOWN                  音量调低 (10%)
+LAUNCHER_OPTIONS_PRMUMBLE_SETBUTTONS                  按下快捷键(s)
 LAUNCHER_SUPPORT_SUPPORTFORUM                         Support Forum
 LAUNCHER_SUPPORT_CLIPBOARD                            Saved To Clipboard
 LAUNCHER_SUPPORT_COPYTOCLIPBOARD                      Copy To Clipboard
