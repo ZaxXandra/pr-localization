@@ -1,58 +1,58 @@
-﻿HUD_LEVELNAME_albasrah                                     巴士拉
-HUD_LEVELNAME_arctic_lion                                  北极狮
+﻿HUD_LEVELNAME_albasrah                                     Al Basrah
+HUD_LEVELNAME_arctic_lion                                  Arctic Lion
 HUD_LEVELNAME_asad_khal                                    Asad Khal
 HUD_LEVELNAME_assault_on_mestia                            Assault on Mestia
-HUD_LEVELNAME_battle_of_ia_drang                           德浪河谷战役
-HUD_LEVELNAME_beirut                                       贝鲁特
+HUD_LEVELNAME_battle_of_ia_drang                           Battle of Ia Drang
+HUD_LEVELNAME_beirut                                       Beirut
 HUD_LEVELNAME_bijar_canyons                                Bijar Canyons
-HUD_LEVELNAME_black_gold                                   黑金
+HUD_LEVELNAME_black_gold                                   Black Gold
 HUD_LEVELNAME_burning_sands                                Burning Sands
 HUD_LEVELNAME_charlies_point                               Charlies Point
-HUD_LEVELNAME_dovre                                        多弗勒
-HUD_LEVELNAME_dovre_winter                                 多弗勒(冬季)
+HUD_LEVELNAME_dovre                                        Dovre
+HUD_LEVELNAME_dovre_winter                                 Dovre(Winter)
 HUD_LEVELNAME_dragon_fly                                   Dragon Fly
 HUD_LEVELNAME_fallujah_west                                Fallujah West
 HUD_LEVELNAME_fools_road                                   Fools Road
-HUD_LEVELNAME_gaza                                         加沙海滩
-HUD_LEVELNAME_hades_peak                                   黄泉之峰
-HUD_LEVELNAME_hill_488                                     488号山
-HUD_LEVELNAME_iron_ridge                                   铁岭
+HUD_LEVELNAME_gaza                                         Gaza Beach
+HUD_LEVELNAME_hades_peak                                   Hades Peak
+HUD_LEVELNAME_hill_488                                     Hill 488
+HUD_LEVELNAME_iron_ridge                                   Iron Ridge
 HUD_LEVELNAME_jabal                                        Jabal Al Burj
-HUD_LEVELNAME_karbala                                      卡尔巴拉
-HUD_LEVELNAME_kashan_desert                                卡尚沙漠
+HUD_LEVELNAME_karbala                                      Karbala
+HUD_LEVELNAME_kashan_desert                                Kashan Desert
 HUD_LEVELNAME_khamisiyah                                   Khamisiyah
 HUD_LEVELNAME_kokan                                        Kokan
 HUD_LEVELNAME_korengal                                     Korengal Valley
 HUD_LEVELNAME_kozelsk                                      Kozelsk
-HUD_LEVELNAME_lashkar_valley                               拉什卡山谷
-HUD_LEVELNAME_muttrah_city_2                               马托拉城
+HUD_LEVELNAME_lashkar_valley                               Lashkar Valley
+HUD_LEVELNAME_muttrah_city_2                               Muttrah City
 HUD_LEVELNAME_nuijamaa                                     Nuijamaa
-HUD_LEVELNAME_operation_nightshift                         夜班行动
-HUD_LEVELNAME_op_barracuda                                 梭鱼行动
-HUD_LEVELNAME_operation_archer                             射手行动
-HUD_LEVELNAME_operation_ghost_train                        幽灵列车行动
-HUD_LEVELNAME_operation_marlin                             马林行动
-HUD_LEVELNAME_pavlovsk_bay                                 巴甫洛夫斯克海湾
+HUD_LEVELNAME_operation_nightshift                         Operation Nightshift
+HUD_LEVELNAME_op_barracuda                                 Operation Barracuda
+HUD_LEVELNAME_operation_archer                             Operation Archer
+HUD_LEVELNAME_operation_ghost_train                        Operation Ghost Train
+HUD_LEVELNAME_operation_marlin                             Operation Marlin
+HUD_LEVELNAME_pavlovsk_bay                                 Pavlovsk Bay
 HUD_LEVELNAME_qwai1                                        Qwai River
 HUD_LEVELNAME_ramiel                                       Ramiel
 HUD_LEVELNAME_saaremaa                                     Saaremaa
 HUD_LEVELNAME_sbeneh_outskirts                             Sbeneh Outskirts
 HUD_LEVELNAME_shijiavalley                                 Shijia Valley
-HUD_LEVELNAME_shikotan_island                              色丹岛
-HUD_LEVELNAME_silent_eagle                                 沉默之鹰
+HUD_LEVELNAME_shikotan_island                              Shikotan Island
+HUD_LEVELNAME_silent_eagle                                 Silent Eagle
 HUD_LEVELNAME_tad_sae                                      Tad Sae Offensive
 HUD_LEVELNAME_ulyanovsk                                    Ulyanovsk
-HUD_LEVELNAME_vadso_city                                   瓦德瑟城镇
-HUD_LEVELNAME_wanda_shan                                   万达山
+HUD_LEVELNAME_vadso_city                                   Vadso City
+HUD_LEVELNAME_wanda_shan                                   Wanda Shan
 HUD_LEVELNAME_xiangshan                                    Xiangshan
-HUD_LEVELNAME_yamalia                                      亚马尔
+HUD_LEVELNAME_yamalia                                      Yamalia
 GAMEMODE_DESCRIPTION_aasinfantry                           突击与保护（AAS）模式以步兵布局。有轻型车辆将可使用。你的主要目的是消减你敌军的援军数直到零。你必须在预先计划的占领次序中保护控制点。检查您地图上的标记指示你当前的目标。
 GAMEMODE_DESCRIPTION_aasalternative                        突击与保护（AAS）模式以备选布局。你的主要目的是消减你敌军的援军数直到零。你必须在预先计划的占领次序中保护控制点。检查您地图上的标记指示你当前的目标。
 GAMEMODE_DESCRIPTION_aasfullassets                         突击与保护（AAS）模式以标准布局。有重型车辆将可使用。你的主要目的是消减你敌军的援军数直到零。你必须在预先计划的占领次序中保护控制点。检查您地图上的标记指示你当前的目标。
 GAMEMODE_DESCRIPTION_aaslarge                              进军和保护（AAS）模式以大型布局。用于100位玩家的服务器。你的主要目的是消减你敌军的援军数直到零。你必须在预先计划的占领次序中保护控制点。检查您地图上的标记指示你当前的目标。
-GAMEMODE_DESCRIPTION_coopinfantry                          Co-Operative Mode with Infantry Layout. Your primary objective is to reduce your enemy's reinforcements to zero. You MUST secure Control Points in a pre-planned capture order. Check your map for markers indicating your current objectives.
-GAMEMODE_DESCRIPTION_coopalternative                       Co-Operative Mode with Alternative Layout. Your primary objective is to reduce your enemy's reinforcements to zero. You MUST secure Control Points in a pre-planned capture order. Check your map for markers indicating your current objectives.
-GAMEMODE_DESCRIPTION_coopfullassets                        Co-Operative Mode with Standard Layout. Your primary objective is to reduce your enemy's reinforcements to zero. You MUST secure Control Points in a pre-planned capture order. Check your map for markers indicating your current objectives.
+GAMEMODE_DESCRIPTION_coopinfantry                          合作模式以步兵布局。你的主要目的是消减你敌军的援军数直到零。你必须在预先计划的占领次序中保护控制点。检查您地图上的标记指示你当前的目标。
+GAMEMODE_DESCRIPTION_coopalternative                       合作模式以备选布局。你的主要目的是消减你敌军的援军数直到零。你必须在预先计划的占领次序中保护控制点。检查您地图上的标记指示你当前的目标。
+GAMEMODE_DESCRIPTION_coopfullassets                        合作模式以标准布局。你的主要目的是消减你敌军的援军数直到零。你必须在预先计划的占领次序中保护控制点。检查您地图上的标记指示你当前的目标。
 GAMEMODE_DESCRIPTION_cnc                                   Command and Control (CNC) mode. This is a "hardcore, open-ended" game mode. Primary objective is to deploy one Forward Operating Base (FOB) in a strategic position while locating and destroying the enemy FOB. Upon destroying it, you will force the enemy to ticket bleed, ensuring victory.
 GAMEMODE_DESCRIPTION_insurgency                            Insurgency Mode. The BLUFOR primary objective is to clear the region of Weapon Caches used by the Insurgents. Check your map for markers indicating the approximate location of Weapon Caches. The Insurgent's primary objective is to defend the Weapon Caches and ambush the BLUFOR Forces.
 GAMEMODE_DESCRIPTION_scenario                              Scenario Mode. Your primary objectives are provided in the briefing. Your secondary Objectives can provide bonuses and extra resources. Check your map for markers, as well as text messages indicating your current objectives.
@@ -62,36 +62,36 @@ GAMEMODE_DESCRIPTION_objective                             Objective Mode. You
 GAMEMODE_DESCRIPTION_riot                                  The city is in chaos, blufor must maintain control over at least one part of the city to avoid being routed! The insurgents will recapture weapons if they hold the occupied compound.
 GAMEMODE_DESCRIPTION_assault                               Bluefor must assault Redfor's position, Redfor is already entrenched and has the defensive advantage!
 cpname_albasrah_coop16_facility                            Facility
-cpname_albasrah_coop16_mosque                              清真寺
-cpname_albasrah_coop16_offices                             办公室
-cpname_albasrah_coop16_shanty                              简陋的小屋
-cpname_albasrah_coop16_southcheckpoint                     南部检查站
-cpname_albasrah_coop16_square                              广场
-cpname_albasrah_coop32_mosque                              清真寺
-cpname_albasrah_coop32_palace                              宫殿 80m
+cpname_albasrah_coop16_mosque                              Mosque
+cpname_albasrah_coop16_offices                             Offices
+cpname_albasrah_coop16_shanty                              Shanty
+cpname_albasrah_coop16_southcheckpoint                     South Checkpoint
+cpname_albasrah_coop16_square                              Square
+cpname_albasrah_coop32_mosque                              Mosque
+cpname_albasrah_coop32_palace                              Palace 80m
 cpname_albasrah_coop32_residential                         Residencies 80m
-cpname_albasrah_coop32_citycentre                          城市中心 70m
-cpname_albasrah_coop32_slums                               贫民窟 100m
-cpname_albasrah_coop32_refinery                            炼油厂 120m
-cpname_albasrah_coop32_vcp                                 车辆检查点
-cpname_albasrah_coop32_albasrah                            巴士拉机场
-cpname_albasrah_coop64_airport                             巴士拉机场 45m
-cpname_albasrah_coop64_apartments                          公寓 45m
-cpname_albasrah_coop64_mosque                              清真寺 40m
-cpname_albasrah_coop64_nvcp                                车辆检查点 25m
-cpname_albasrah_coop64_outskirts                           郊区 30m
-cpname_albasrah_coop64_palace                              宫殿 35m
-cpname_albasrah_coop64_refinery                            炼油厂 45m
-cpname_albasrah_coop64_residental                          住宅 45m
-cpname_albasrah_coop64_slum                                贫民窟 55m
-cpname_albasrah_coop64_village                             村庄 35m
-cpname_albasrah_insurgency16_airport                       巴士拉机场
-cpname_albasrah_insurgency32_airport                       巴士拉机场
-cpname_albasrah_insurgency64_airport                       巴士拉机场
-cpname_albasrah_insurgency16_mosque                        清真寺
-cpname_albasrah_insurgency32_mosque                        清真寺
-cpname_albasrah_insurgency64_mosque                        清真寺
-cpname_albasrah_skirmish16_construction                    工地
+cpname_albasrah_coop32_citycentre                          City Centre 70m
+cpname_albasrah_coop32_slums                               Slums 100m
+cpname_albasrah_coop32_refinery                            Refinery 120m
+cpname_albasrah_coop32_vcp                                 Vehicle Checkpoint
+cpname_albasrah_coop32_albasrah                            Al Basrah Airport
+cpname_albasrah_coop64_airport                             Al Basrah Airport 45m
+cpname_albasrah_coop64_apartments                          Apartments 45m
+cpname_albasrah_coop64_mosque                              Mosque 40m
+cpname_albasrah_coop64_nvcp                                Vehicle Checkpoint 25m
+cpname_albasrah_coop64_outskirts                           Outskirts 30m
+cpname_albasrah_coop64_palace                              Palace 35m
+cpname_albasrah_coop64_refinery                            Refinery 45m
+cpname_albasrah_coop64_residental                          Residential 45m
+cpname_albasrah_coop64_slum                                Slums 55m
+cpname_albasrah_coop64_village                             Village 35m
+cpname_albasrah_insurgency16_airport                       Al Basrah Airport
+cpname_albasrah_insurgency32_airport                       Al Basrah Airport
+cpname_albasrah_insurgency64_airport                       Al Basrah Airport
+cpname_albasrah_insurgency16_mosque                        Mosque
+cpname_albasrah_insurgency32_mosque                        Mosque
+cpname_albasrah_insurgency64_mosque                        Mosque
+cpname_albasrah_skirmish16_construction                    Construction Site
 cpname_albasrah_skirmish16_docks                           Docks
 cpname_albasrah_skirmish16_facility                        Facility
 cpname_albasrah_skirmish16_mosque                          Mosque Entrance
