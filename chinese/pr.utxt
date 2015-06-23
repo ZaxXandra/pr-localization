@@ -112,7 +112,7 @@ HUD_TEXT_MENU_SPAWN_ARMY_USA                               美國陸軍
 HUD_TEXT_MENU_SPAWN_ARMY_vnnva                             越南人民軍
 HUD_TEXT_MENU_SPAWN_ARMY_vnusa                             美國陸軍
 HUD_TEXT_MENU_SPAWN_ARMY_vnusmc                            美國海軍陸戰隊
-HUD_TEXT_MENU_SPAWN_ARMY_NL                                荷蘭軍隊
+HUD_TEXT_MENU_SPAWN_ARMY_NL                                荷蘭
 AUTO_MOODGP_C_ammohere                                      
 AUTO_MOODGP_C_friendlyfire                                 停止射擊!
 AUTO_MOODGP_C_goodtogo                                      
