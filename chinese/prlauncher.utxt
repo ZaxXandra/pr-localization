@@ -20,7 +20,7 @@ UPDATER_TITLES_ACCEPTLICENSE                          接受许可
 LAUNCHER_MAIN_BUTTON_PLAY                             开始游戏
 LAUNCHER_MAIN_BUTTON_GUIDE                            游戏指南
 LAUNCHER_MAIN_BUTTON_OPTIONS                          选项
-LAUNCHER_MAIN_BUTTON_SUPPORT                          支持
+LAUNCHER_MAIN_BUTTON_SUPPORT                          协助
 LAUNCHER_MAIN_BUTTON_CREDITS                          制作团
 LAUNCHER_MAIN_BUTTON_DONATE                           捐献
 LAUNCHER_MAIN_BUTTON_EXIT                             退出
@@ -62,9 +62,9 @@ LAUNCHER_INITIALSETUP_NEWPROFILE_GAMESPYTM            GameSpy and the "Powered
 LAUNCHER_INITIALSETUP_TERMS_TERMS1                    By clicking "Accept", you will register with GameSpy and you are sending account data directly to GameSpy. You agree that the use of your account data is subject to the IGN Entertainment, Inc. Privacy Policy and the IGN Entertainment, Inc. User Agreement. You also acknowledge that IGN will share your information with EA so that EA may operate the service you have elected to receive. Gameplay is also subject to the EA Terms of Service.
 LAUNCHER_INITIALSETUP_TERMS_TERMS2                    If you do not agree to these terms, press "Decline".
 LAUNCHER_INITIALSETUP_TERMS_TERMS3                    Note: Offline accounts are not registered with GameSpy and are not subject to these terms and conditions.
-LAUNCHER_INITIALSETUP_TERMS_EATERMS                   EA Terms of Service
-LAUNCHER_INITIALSETUP_TERMS_IGNPRIVACY                IGN Privacy Policy
-LAUNCHER_INITIALSETUP_TERMS_IGNAGREEMENT              IGN User Agreement
+LAUNCHER_INITIALSETUP_TERMS_EATERMS                   EA服务条款
+LAUNCHER_INITIALSETUP_TERMS_IGNPRIVACY                IGN隐私政策
+LAUNCHER_INITIALSETUP_TERMS_IGNAGREEMENT              IGN用户协议
 LAUNCHER_INITIALSETUP_TERMS_ACCEPT                    同意
 LAUNCHER_INITIALSETUP_TERMS_DECLINE                   不同意
 LAUNCHER_INITIALSETUP_CREATEACCOUNT_DESC              Please select the type of account you wish to create, fill out the required details, and press "Create" to continue. Press "Back" to return to the previous page.
@@ -97,12 +97,12 @@ LAUNCHER_INITIALSETUP_FINISHED_DESCSINGLE             Your Project Reality: BF
 LAUNCHER_INITIALSETUP_FINISHED_DESCMULTI              Your Project Reality: BF2 profiles have been successfully created. You are now ready to play! Before you do however, please take some time to read the following short message from the Project Reality Team, then press "Finish" to continue.
 LAUNCHER_INITIALSETUP_FINISHED_HEADER1                Having technical issues?
 LAUNCHER_INITIALSETUP_FINISHED_TEXT1                  If you have any issues with being able to play, such as game crashes, possible bugs, or some other technical issue, please check out the "Support" section in the Project Reality: BF2 Launcher.
-LAUNCHER_INITIALSETUP_FINISHED_HEADER2                Have gameplay questions?
+LAUNCHER_INITIALSETUP_FINISHED_HEADER2                有游戏问题？
 LAUNCHER_INITIALSETUP_FINISHED_TEXT2                  If you're not quite sure what to do when you first start playing, if you're wondering what the shovel does, or if you have any other gameplay related questions, you should take a look at the Project Reality: BF2 Manual, which can also be found on the launcher.
-LAUNCHER_INITIALSETUP_FINISHED_HEADER3                Any other questions?
+LAUNCHER_INITIALSETUP_FINISHED_HEADER3                有任何其他问题？
 LAUNCHER_INITIALSETUP_FINISHED_TEXT3                  If you didn't find the answer you were looking for, or you just want to share your thoughts on the game, please don't hesitate to contact us through our social media pages or via our forums. The links to these pages can be found at the top left of the launcher.
-LAUNCHER_INITIALSETUP_FINISHED_TEXT4                  Thanks for playing, and we hope you enjoy the game!
-LAUNCHER_INITIALSETUP_FINISHED_TEXT5                  - The Project Reality Team
+LAUNCHER_INITIALSETUP_FINISHED_TEXT4                  谢谢你的支持，我们希望您能享受我们的游戏！
+LAUNCHER_INITIALSETUP_FINISHED_TEXT5                  - 《真实计划》团队
 LAUNCHER_INITIALSETUP_FINISHED_FINISH                 完成
 LAUNCHER_SELECTPROFILE_DESC                           Please select the profile you want to use, confirm any passwords and options, then press "Login" to launch Project Reality: BF2.
 LAUNCHER_SELECTPROFILE_PASSWORD                       密码
@@ -136,7 +136,7 @@ LAUNCHER_LAUNCH_UPDATEAVAILABLE                       A new update is availabl
 
 Note: If you choose to skip the update, you will not be able to play on public servers.
 LAUNCHER_LAUNCH_LATESTVERSIONHEADER                   运行最新版本
-LAUNCHER_LAUNCH_LATESTVERSION                         You are currently running the latest version of Project Reality: BF2
+LAUNCHER_LAUNCH_LATESTVERSION                         你目前运行的是《真实计划：战地2》的最新版本
 LAUNCHER_UPDATEDOWNLOAD_ERROR                         下载错误
 LAUNCHER_UPDATEDOWNLOAD_NAME                          名称:
 LAUNCHER_UPDATEDOWNLOAD_CHANGELOG                     更新记录
@@ -145,7 +145,7 @@ LAUNCHER_UPDATEDOWNLOAD_DOWNLOADED                    已经下载:
 LAUNCHER_UPDATEDOWNLOAD_UPDATESREMAINING              剩余更新:
 LAUNCHER_UPDATEDOWNLOAD_CONTENTHOSTING                Content hosting provided by:
 LAUNCHER_UPDATEDOWNLOAD_PROGRESSCOMPLETE              {0}% 完成
-LAUNCHER_UPDATEDOWNLOAD_CONFIRMCANCEL                 Are you sure you want to cancel? Any unfinished downloads will be lost.
+LAUNCHER_UPDATEDOWNLOAD_CONFIRMCANCEL                 你确定你想取消？这会照成任何未完成下载的文件将会丢失。
 LAUNCHER_UPDATEDOWNLOAD_CONFIRMCANCELHEADER           确认取消
 LAUNCHER_UPDATEDOWNLOAD_STATUS_GETINFO                获取更新信息...
 LAUNCHER_UPDATEDOWNLOAD_STATUS_CONNECTING             连接到服务器...
@@ -186,7 +186,7 @@ LAUNCHER_OPTIONS_TAB_GRAPHICS                         图形
 LAUNCHER_OPTIONS_TAB_AUDIO                            音频
 LAUNCHER_OPTIONS_TAB_GLOBAL                           全球
 LAUNCHER_OPTIONS_TAB_PRMUMBLE                         PR Mumble
-LAUNCHER_OPTIONS_PROMPT_SAVESETTINGS                  Do you want to save the changed settings before you continue?
+LAUNCHER_OPTIONS_PROMPT_SAVESETTINGS                  在你继续之前，你想保存已经更改的设置吗？
 LAUNCHER_OPTIONS_PROMPT_SAVESETTINGSHEADER            储存设定
 LAUNCHER_OPTIONS_VIDEO_RESOLUTION                     显示模式
 LAUNCHER_OPTIONS_VIDEO_GRAPHICSSCHEME                 图形质量
@@ -226,8 +226,8 @@ LAUNCHER_OPTIONS_GLOBAL_UPDATEKEEPFILES               保持文件更新
 LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHHEADER                启动《真实计划》Mumble
 LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHDESC                  To configure advanced options, please launch PR Mumble and configure the settings via "Configure -> Settings". After configuration, please close PR Mumble to continue. Shortcuts can be configured below without needing to launch PR Mumble.
 LAUNCHER_OPTIONS_PRMUMBLE_LAUNCH                      启动
-LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHCLOSEHEADER           Close PR Mumble
-LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHCLOSE                 Please close Project Reality Mumble before continuing.
+LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHCLOSEHEADER           关闭PR Mumble
+LAUNCHER_OPTIONS_PRMUMBLE_LAUNCHCLOSE                 在继续之前，请关闭《真实计划》Mumble。
 LAUNCHER_OPTIONS_PRMUMBLE_KEYBINDS                    快捷键
 LAUNCHER_OPTIONS_PRMUMBLE_LOCAL                       本地语音
 LAUNCHER_OPTIONS_PRMUMBLE_LOCAL_ALT                   本地语音 Alt
@@ -249,20 +249,20 @@ LAUNCHER_OPTIONS_PRMUMBLE_DEAFEN                      扬声器 静音
 LAUNCHER_OPTIONS_PRMUMBLE_VOLUMEUP                    音量提高 (10%)
 LAUNCHER_OPTIONS_PRMUMBLE_VOLUMEDOWN                  音量调低 (10%)
 LAUNCHER_OPTIONS_PRMUMBLE_SETBUTTONS                  按下快捷键(s)
-LAUNCHER_SUPPORT_SUPPORTFORUM                         Support Forum
-LAUNCHER_SUPPORT_CLIPBOARD                            Saved To Clipboard
-LAUNCHER_SUPPORT_COPYTOCLIPBOARD                      Copy To Clipboard
-LAUNCHER_SUPPORT_CLOSE                                Close
-LAUNCHER_SUPPORT_TAB_SUPPORTINFO                      Support Info
+LAUNCHER_SUPPORT_SUPPORTFORUM                         协助论坛
+LAUNCHER_SUPPORT_CLIPBOARD                            保存到剪贴板
+LAUNCHER_SUPPORT_COPYTOCLIPBOARD                      复制到剪贴板
+LAUNCHER_SUPPORT_CLOSE                                关闭
+LAUNCHER_SUPPORT_TAB_SUPPORTINFO                      协助信息
 LAUNCHER_SUPPORT_TAB_KEYS                             Keys
 LAUNCHER_SUPPORT_TAB_UTILITIES                        Utilities
 LAUNCHER_SUPPORT_KEYS_CDKEY                           CD Key
-LAUNCHER_SUPPORT_KEYS_CDKEYCHANGE                     Change Key
-LAUNCHER_SUPPORT_KEYS_CDKEYVALID                      CD Key Valid
-LAUNCHER_SUPPORT_KEYS_CDKEYVALIDERROR                 Error validating CD Key...
+LAUNCHER_SUPPORT_KEYS_CDKEYCHANGE                     更改Key
+LAUNCHER_SUPPORT_KEYS_CDKEYVALID                      CD Key有效
+LAUNCHER_SUPPORT_KEYS_CDKEYVALIDERROR                 CD Key验证错误...
 LAUNCHER_SUPPORT_KEYS_CDKEYHASH                       CD Key Hash
 LAUNCHER_SUPPORT_KEYS_PBGUID                          PB Guid
-LAUNCHER_SUPPORT_UTILITIES_PERFORMTASK                Perform Task
+LAUNCHER_SUPPORT_UTILITIES_PERFORMTASK                执行任务
 LAUNCHER_SUPPORT_UTILITIES_CLEARSHADERSHEADER         Clear Shader Cache
 LAUNCHER_SUPPORT_UTILITIES_CLEARSHADERSDESC           The shader cache contains compiled shaders optimized for your graphics card and settings. Clearing the cache is recommended whenever you change your graphics card, drivers, or ingame graphics quality settings, or if you are experiencing graphics issues ingame.
 LAUNCHER_SUPPORT_UTILITIES_CLEARFAVORITESHEADER       Clear Server Favorites
@@ -271,17 +271,17 @@ LAUNCHER_SUPPORT_UTILITIES_CLEARHISTORYHEADER         Clear Server History
 LAUNCHER_SUPPORT_UTILITIES_CLEARHISTORYDESC           When you join a server, the game stores a history of any joined server. Like server favorites, having lots of servers can heavily increase the time it takes to launch the game. Clearing the server history list will help to improve game launch time.
 LAUNCHER_SUPPORT_UTILITIES_CLEARLOGOCACHEHEADER       Clear Server Logo Cache
 LAUNCHER_SUPPORT_UTILITIES_CLEARLOGOCACHEDESC         Each server has their own logo image representing their server. This image is stored on your computer to save re-downloading the image. Clearing the logo cache forces images to be re-downloaded.
-LAUNCHER_SUPPORT_UTILITIES_UPDATEPBHEADER             Update Punkbuster
+LAUNCHER_SUPPORT_UTILITIES_UPDATEPBHEADER             更新Punkbuster
 LAUNCHER_SUPPORT_UTILITIES_UPDATEPBDESC               Punkbuster handles anti-cheat in Battlefield 2. Keeping your Punkbuster installation up to date can help to resolve issues when joining Punkbuster enabled servers.
-LAUNCHER_SUPPORT_UTILITIES_ERRORHEADER                Error
-LAUNCHER_SUPPORT_UTILITIES_ERROR                      Error performing task.
-LAUNCHER_SUPPORT_UTILITIES_SUCCESSHEADER              Success
-LAUNCHER_SUPPORT_UTILITIES_SUCCESS                    Task performed successfully.
-LAUNCHER_CHANGECDKEY_DESC                             Please enter your CD Key (dashes will be automatically inserted)
-LAUNCHER_CHANGECDKEY_NONE_DESC                        No CD Key was found.
-Please enter your CD Key (dashes will be automatically inserted)
+LAUNCHER_SUPPORT_UTILITIES_ERRORHEADER                错误
+LAUNCHER_SUPPORT_UTILITIES_ERROR                      执行错误。
+LAUNCHER_SUPPORT_UTILITIES_SUCCESSHEADER              完成
+LAUNCHER_SUPPORT_UTILITIES_SUCCESS                    执行完成。
+LAUNCHER_CHANGECDKEY_DESC                             请输入你的CD Key（破折号将自动插入）
+LAUNCHER_CHANGECDKEY_NONE_DESC                        没CD已经发现。
+请输入你的CD Key (破折号将自动插入)
 You can not change your CD Key once entered, please ensure it is unique and does not contain errors.
-LAUNCHER_CHANGECDKEY_CHANGING                         Changing CD Key, please wait...
+LAUNCHER_CHANGECDKEY_CHANGING                         更改CD Key中，请稍等...
 LAUNCHER_CHANGECDKEY_OK                               好的
 LAUNCHER_SETTINGS_YES                                 是的
 LAUNCHER_SETTINGS_NO                                  不是
@@ -295,68 +295,68 @@ LAUNCHER_SETTINGS_MULTISAMPLING                       {0}x
 LAUNCHER_SETTINGS_SOFTWARE                            软件
 LAUNCHER_SETTINGS_HARDWARE                            硬件
 LAUNCHER_SETTINGS_CREATIVE                            Creative X-Fi
-LAUNCHER_CREDITS_TITLE_CONTINUED                      (CONTINUED)
-LAUNCHER_CREDITS_TITLE_PROJECTMANAGER                 PROJECT MANAGER
-LAUNCHER_CREDITS_TITLE_OPERATIONSMANAGER              OPERATIONS MANAGER
-LAUNCHER_CREDITS_TITLE_RELEASEMANAGER                 RELEASE MANAGER
-LAUNCHER_CREDITS_TITLE_LEADDESIGNER                   LEAD DESIGNER
-LAUNCHER_CREDITS_TITLE_LEADDEVELOPER                  LEAD DEVELOPER
-LAUNCHER_CREDITS_TITLE_CONTENTMANAGER                 CONTENT MANAGER
-LAUNCHER_CREDITS_TITLE_QALEAD                         QUALITY ASSURANCE LEAD
-LAUNCHER_CREDITS_TITLE_PROGRAMMINGTEAM                PROGRAMMING TEAM
-LAUNCHER_CREDITS_TITLE_MAPPINGTEAM                    MAPPING TEAM
-LAUNCHER_CREDITS_TITLE_ARTTEAM_2D                     ART TEAM (2D)
-LAUNCHER_CREDITS_TITLE_ARTTEAM_3D                     ART TEAM (3D)
-LAUNCHER_CREDITS_TITLE_ARTTEAM_ANIMATION              ART TEAM (ANIMATION)
-LAUNCHER_CREDITS_TITLE_ARTTEAM_VISUALEFFECTS          ART TEAM (VISUAL EFFECTS)
-LAUNCHER_CREDITS_TITLE_ARTTEAM_CINEMATIC              ART TEAM (CINEMATIC)
-LAUNCHER_CREDITS_TITLE_SOUNDTEAM_EFFECTS              SOUND TEAM (EFFECTS)
-LAUNCHER_CREDITS_TITLE_SOUNDTEAM_MUSIC                SOUND TEAM (MUSIC)
-LAUNCHER_CREDITS_TITLE_AITEAM                         AI TEAM
-LAUNCHER_CREDITS_TITLE_MILITARYADVISORTEAM            MILITARY ADVISORS
-LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_MAPPING          ADDITIONAL CONTRIBUTIONS (MAPPING)
-LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_PROGRAMMING      ADDITIONAL CONTRIBUTIONS (PROGRAMMING)
-LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_ART              ADDITIONAL CONTRIBUTIONS (ART)
-LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_SOUND            ADDITIONAL CONTRIBUTIONS (SOUNDS)
-LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_MUSIC            ADDITIONAL CONTRIBUTIONS (MUSIC)
-LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_PRT              ADDITIONAL CONTRIBUTIONS (TOURNAMENT)
-LAUNCHER_CREDITS_TITLE_COMFAC                         COMMUNITY FACTIONS LEADS
-LAUNCHER_CREDITS_TITLE_PRTTEAM_ADMIN                  OFFICIAL TOURNAMENT C10 LEAD ADMINISTRATORS
-LAUNCHER_CREDITS_TITLE_PRTTEAM_LEAD                   OFFICIAL TOURNAMENT C10 ADMINISTRATORS
-LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_COMMUNITYEVENTS  ADDITIONAL CONTRIBUTIONS (COMMUNITY EVENTS)
-LAUNCHER_CREDITS_TITLE_QATEAM_SENIOR                  QUALITY ASSURANCE TEAM (SENIOR)
-LAUNCHER_CREDITS_TITLE_QATEAM                         QUALITY ASSURANCE TEAM
-LAUNCHER_CREDITS_TITLE_ADMINISTRATION_WEBSITE         ADMINISTRATION (WEBSITE)
-LAUNCHER_CREDITS_TITLE_ADMINISTRATION_SERVER          ADMINISTRATION (SERVER)
-LAUNCHER_CREDITS_TITLE_SUPPORTTEAM_MODERATIONLEAD     SUPPORT TEAM (MODERATION LEAD)
-LAUNCHER_CREDITS_TITLE_SUPPORTTEAM_MODERATION         SUPPORT TEAM (MODERATION)
-LAUNCHER_CREDITS_TITLE_SUPPORTTEAM_TECHNICAL          SUPPORT TEAM (TECHNICAL)
-LAUNCHER_CREDITS_TITLE_RETIREDDEVELOPERS              RETIRED DEVELOPERS
-LAUNCHER_CREDITS_TITLE_SPECIALTHANKS                  SPECIAL THANKS
-LAUNCHER_CREDITS_INTRO                                Project Reality: BF2
-A Modification for Battlefield 2
-LAUNCHER_CREDITS_ERROR                                Error loading credits...
+LAUNCHER_CREDITS_TITLE_CONTINUED                      (继续)
+LAUNCHER_CREDITS_TITLE_PROJECTMANAGER                 项目经理
+LAUNCHER_CREDITS_TITLE_OPERATIONSMANAGER              业务经理
+LAUNCHER_CREDITS_TITLE_RELEASEMANAGER                 发布经理
+LAUNCHER_CREDITS_TITLE_LEADDESIGNER                   设计师主席
+LAUNCHER_CREDITS_TITLE_LEADDEVELOPER                  开发者主席
+LAUNCHER_CREDITS_TITLE_CONTENTMANAGER                 内容经理
+LAUNCHER_CREDITS_TITLE_QALEAD                         质量保证主席
+LAUNCHER_CREDITS_TITLE_PROGRAMMINGTEAM                编程团队
+LAUNCHER_CREDITS_TITLE_MAPPINGTEAM                    制图团队
+LAUNCHER_CREDITS_TITLE_ARTTEAM_2D                     绘画团队(2D)
+LAUNCHER_CREDITS_TITLE_ARTTEAM_3D                     绘画团队(3D)
+LAUNCHER_CREDITS_TITLE_ARTTEAM_ANIMATION              绘画团队(动画)
+LAUNCHER_CREDITS_TITLE_ARTTEAM_VISUALEFFECTS          绘画团队(视觉效果)
+LAUNCHER_CREDITS_TITLE_ARTTEAM_CINEMATIC              绘画团队(影片)
+LAUNCHER_CREDITS_TITLE_SOUNDTEAM_EFFECTS              音效团队(效果)
+LAUNCHER_CREDITS_TITLE_SOUNDTEAM_MUSIC                音效团队(音乐)
+LAUNCHER_CREDITS_TITLE_AITEAM                         AI团队
+LAUNCHER_CREDITS_TITLE_MILITARYADVISORTEAM            军事顾问
+LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_MAPPING          额外贡献(制图)
+LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_PROGRAMMING      额外贡献(编程)
+LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_ART              额外贡献(绘画)
+LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_SOUND            额外贡献(音效)
+LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_MUSIC            额外贡献(音乐)
+LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_PRT              额外贡献(锦标赛)
+LAUNCHER_CREDITS_TITLE_COMFAC                         社区派系主席
+LAUNCHER_CREDITS_TITLE_PRTTEAM_ADMIN                  官方锦标赛 C10 管理主席
+LAUNCHER_CREDITS_TITLE_PRTTEAM_LEAD                   官方锦标赛 C10 管理
+LAUNCHER_CREDITS_TITLE_CONTRIBUTIONS_COMMUNITYEVENTS  额外贡献(社区活动)
+LAUNCHER_CREDITS_TITLE_QATEAM_SENIOR                  质量保证团队(资深)
+LAUNCHER_CREDITS_TITLE_QATEAM                         质量保证团队
+LAUNCHER_CREDITS_TITLE_ADMINISTRATION_WEBSITE         管理(网页)
+LAUNCHER_CREDITS_TITLE_ADMINISTRATION_SERVER          管理(服务器)
+LAUNCHER_CREDITS_TITLE_SUPPORTTEAM_MODERATIONLEAD     协助团队(适度主席)
+LAUNCHER_CREDITS_TITLE_SUPPORTTEAM_MODERATION         协助团队(适度)
+LAUNCHER_CREDITS_TITLE_SUPPORTTEAM_TECHNICAL          协助团队(技术)
+LAUNCHER_CREDITS_TITLE_RETIREDDEVELOPERS              已经退休的开发者
+LAUNCHER_CREDITS_TITLE_SPECIALTHANKS                  特别感谢
+LAUNCHER_CREDITS_INTRO                                真实计划：战地2
+战地2的模组
+LAUNCHER_CREDITS_ERROR                                制作团名单载入错误...
 Please view the team list online:
 LAUNCHER_CREDITS_EADICE                               EA Digital Illusions Creative Entertainment AB (EA DICE)
 For creating Battlefield 2
-LAUNCHER_CREDITS_COMMUNITYTHANKS                      Thanks to all of the community
-for their patience, feedback and support!
-LAUNCHER_GENERAL_ARGUMENTS_HEADER                     Arguments Help
-UPDATER_MAIN_PROGRESSCOMPLETE                         {0}% Complete
-UPDATER_MAIN_FILENAME                                 Name:
-UPDATER_MAIN_FILEPROGRESS                             Progress:
+LAUNCHER_CREDITS_COMMUNITYTHANKS                      感谢所有社区
+他们的耐心，反馈和支持！
+LAUNCHER_GENERAL_ARGUMENTS_HEADER                     参数帮助
+UPDATER_MAIN_PROGRESSCOMPLETE                         {0}% 完成
+UPDATER_MAIN_FILENAME                                 名称:
+UPDATER_MAIN_FILEPROGRESS                             进度:
 UPDATER_MAIN_CONFIRMCANCEL                            Are you sure you want to cancel the update process?
-UPDATER_MAIN_CONFIRMCANCELHEADER                      Confirm Cancellation
-UPDATER_MAIN_STATUS_GETINFO                           Getting update information...
-UPDATER_MAIN_STATUS_APPLYING                          Updating to v{0}...
-UPDATER_MAIN_STATUS_CANCELLING                        Cancelling...
-UPDATER_MAIN_STATUS_EXTRATASKS                        Running Extra Tasks...
-UPDATER_MAIN_STATUS_VERIFYING                         Verifying files...
-UPDATER_MAIN_STATUS_COMPLETE                          Complete
+UPDATER_MAIN_CONFIRMCANCELHEADER                      确认取消
+UPDATER_MAIN_STATUS_GETINFO                           获取更新信息...
+UPDATER_MAIN_STATUS_APPLYING                          更新到 v{0}...
+UPDATER_MAIN_STATUS_CANCELLING                        取消中...
+UPDATER_MAIN_STATUS_EXTRATASKS                        运行额外的任务中...
+UPDATER_MAIN_STATUS_VERIFYING                         验证文件...
+UPDATER_MAIN_STATUS_COMPLETE                          完成
 UPDATER_LICENSE_CONFIRMDECLINE                        Are you sure you want to decline the license agreement? The update process will be cancelled.
-UPDATER_LICENSE_CONFIRMDECLINEHEADER                  Confirm Decline
-UPDATER_LICENSE_ACCEPT                                Accept
-UPDATER_LICENSE_DECLINE                               Decline
+UPDATER_LICENSE_CONFIRMDECLINEHEADER                  确认拒绝
+UPDATER_LICENSE_ACCEPT                                同意
+UPDATER_LICENSE_DECLINE                               拒绝
 UPDATER_LICENSE_INFO                                  The license agreement has been updated. You must accept the new license agreement in order to install the update.
 LAUNCHER_ERRORS_IMPORTPROFILE                         There was an error importing your selected profiles. Please try again.
 
