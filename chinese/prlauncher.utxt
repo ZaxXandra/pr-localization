@@ -54,20 +54,20 @@ LAUNCHER_PROFILE_LAUNCHTYPE_DEBUGGER                  调试
 LAUNCHER_INITIALSETUP_CONFIRMEXIT                     你确定想要取消初始安装向导？
 LAUNCHER_INITIALSETUP_CONFIRMEXIT_HEADER              确定退出
 LAUNCHER_INITIALSETUP_NEWPROFILE_DESC1                请选择下列的其中一个选项，以创建新的真实计划：战地2档案.
-LAUNCHER_INITIALSETUP_NEWPROFILE_DESC2                Note: GameSpy is used to handle Project Reality: BF2 profiles. If you already have a GameSpy account, you can retrieve that account for use in your profile.
+LAUNCHER_INITIALSETUP_NEWPROFILE_DESC2                说明：GameSpy是被用于处理《真实计划：战地2》的档案。如果你已经有一个GameSpy帐户，你可以检索该帐户用于您的档案。
 LAUNCHER_INITIALSETUP_NEWPROFILE_CREATE               创建新的账号
 LAUNCHER_INITIALSETUP_NEWPROFILE_RETRIEVE             恢复现有的账号
-LAUNCHER_INITIALSETUP_NEWPROFILE_IMPORT               Import Existing Battlefield 2 Profile
-LAUNCHER_INITIALSETUP_NEWPROFILE_GAMESPYTM            GameSpy and the "Powered by GameSpy" design are trademarks of GameSpy Industries, Inc.  All rights reserved.
-LAUNCHER_INITIALSETUP_TERMS_TERMS1                    By clicking "Accept", you will register with GameSpy and you are sending account data directly to GameSpy. You agree that the use of your account data is subject to the IGN Entertainment, Inc. Privacy Policy and the IGN Entertainment, Inc. User Agreement. You also acknowledge that IGN will share your information with EA so that EA may operate the service you have elected to receive. Gameplay is also subject to the EA Terms of Service.
-LAUNCHER_INITIALSETUP_TERMS_TERMS2                    If you do not agree to these terms, press "Decline".
-LAUNCHER_INITIALSETUP_TERMS_TERMS3                    Note: Offline accounts are not registered with GameSpy and are not subject to these terms and conditions.
+LAUNCHER_INITIALSETUP_NEWPROFILE_IMPORT               导入现有的《战地2》档案
+LAUNCHER_INITIALSETUP_NEWPROFILE_GAMESPYTM            GameSpy和“Powered by GameSpy”商标设计归GameSpy Industries，Inc.版权所有。
+LAUNCHER_INITIALSETUP_TERMS_TERMS1                    通过点击“接受”，你将会注册GameSpy和直接发送你的帐户数据给GameSpy。你同意你的帐户数据接受IGN Entertainment,Inc.隐私政策和IGN Entertainment,Inc.用户协议。你承认IGN将分享你的EA信息，以便EA可以运作你选择接收的服务。 Gameplay同时也受到了EA的条款服务。
+LAUNCHER_INITIALSETUP_TERMS_TERMS2                    如果您不同意这些条款，请按“拒绝”。
+LAUNCHER_INITIALSETUP_TERMS_TERMS3                    说明：离线档案不能使用GameSpy登记和不会接受这些条款和条件。
 LAUNCHER_INITIALSETUP_TERMS_EATERMS                   EA服务条款
 LAUNCHER_INITIALSETUP_TERMS_IGNPRIVACY                IGN隐私政策
 LAUNCHER_INITIALSETUP_TERMS_IGNAGREEMENT              IGN用户协议
 LAUNCHER_INITIALSETUP_TERMS_ACCEPT                    同意
 LAUNCHER_INITIALSETUP_TERMS_DECLINE                   不同意
-LAUNCHER_INITIALSETUP_CREATEACCOUNT_DESC              Please select the type of account you wish to create, fill out the required details, and press "Create" to continue. Press "Back" to return to the previous page.
+LAUNCHER_INITIALSETUP_CREATEACCOUNT_DESC              请选择创建你要的帐户类型和填写所需的详细信息，以及按下“创建”并继续。按下“后退”返回到上一页。
 LAUNCHER_INITIALSETUP_CREATEACCOUNT_ONLINETAB         线上账号
 LAUNCHER_INITIALSETUP_CREATEACCOUNT_OFFLINETAB        离线账号
 LAUNCHER_INITIALSETUP_CREATEACCOUNT_NAMEONLINE        账号名称(游戏里的名称)
@@ -78,7 +78,7 @@ LAUNCHER_INITIALSETUP_CREATEACCOUNT_CONFIRMPASS       确定密码
 LAUNCHER_INITIALSETUP_CREATEACCOUNT_REMEMBERPASS      记住密码
 LAUNCHER_INITIALSETUP_CREATEACCOUNT_CREATE            创建
 LAUNCHER_INITIALSETUP_CREATEACCOUNT_BACK              返回
-LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_DESC            Please select the method you by which you wish to retrieve your existing profile, fill out the required details, and press "Retrieve" to continue. Press "Back" to return to the previous page.
+LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_DESC            请选择你要为其检索现有的档案方法和填写所需的详细信息，以及按下“检索”并继续。按下“后退”返回到上一页。
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_EMAILTAB        Retrieve Via Email
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_USERNAMETAB     Retrieve Via Username
 LAUNCHER_INITIALSETUP_RETRIEVEACCOUNT_EMAIL           电子邮件地址
