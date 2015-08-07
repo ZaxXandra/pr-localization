@@ -132,9 +132,9 @@ LAUNCHER_LAUNCH_VERIFICATIONERROR                     文件验证错误
 LAUNCHER_LAUNCH_VERIFICATIONSKIPCONFIRM               If you choose to skip file verification you will not be able to play on public servers. Do you want to skip file verification?
 LAUNCHER_LAUNCH_VERIFICATIONSKIPCONFIRMHEADER         确认跳过验证
 LAUNCHER_LAUNCH_UPDATEAVAILABLEHEADER                 有更新可用
-LAUNCHER_LAUNCH_UPDATEAVAILABLE                       A new update is available to download, do you wish to install this update now?
+LAUNCHER_LAUNCH_UPDATEAVAILABLE                       现在有新的更新可供下载，你想要马上安装此更新吗？
 
-Note: If you choose to skip the update, you will not be able to play on public servers.
+注：如果您选择跳过此更新，你将不能够在公共伺服器与其他玩家对战。
 LAUNCHER_LAUNCH_LATESTVERSIONHEADER                   运行最新版本
 LAUNCHER_LAUNCH_LATESTVERSION                         你目前运行的是《真实计划：战地2》的最新版本
 LAUNCHER_UPDATEDOWNLOAD_ERROR                         下载错误
@@ -361,13 +361,13 @@ UPDATER_LICENSE_INFO                                  The license agreement ha
 LAUNCHER_ERRORS_IMPORTPROFILE                         There was an error importing your selected profiles. Please try again.
 
 If the problem continues, please try creating or retrieving your GameSpy account instead.
-LAUNCHER_ERRORS_IMPORTPROFILE_HEADER                  Import Error
+LAUNCHER_ERRORS_IMPORTPROFILE_HEADER                  导入错误
 LAUNCHER_ERRORS_ACCOUNT_CREATION                      There was an error creating the account. Please try again, or seek technical support if the problem continues.
-LAUNCHER_ERRORS_ACCOUNT_NAMEINVALIDCHARS              The account name contains invalid characters.
-LAUNCHER_ERRORS_ACCOUNT_NAMELENGTH                    The account name must be longer than 3 characters.
-LAUNCHER_ERRORS_ACCOUNT_EMAILINVALID                  Please enter a valid email address.
-LAUNCHER_ERRORS_ACCOUNT_PASSWORDLENGTH                The password must be at least 5 characters.
-LAUNCHER_ERRORS_ACCOUNT_PASSWORDMATCH                 The passwords do not match.
+LAUNCHER_ERRORS_ACCOUNT_NAMEINVALIDCHARS              帐户名称包含无效字符。
+LAUNCHER_ERRORS_ACCOUNT_NAMELENGTH                    账户名称必须长于3个字符。
+LAUNCHER_ERRORS_ACCOUNT_EMAILINVALID                  请输入有效的电子邮件地址。
+LAUNCHER_ERRORS_ACCOUNT_PASSWORDLENGTH                密码必须至少为5个字符。
+LAUNCHER_ERRORS_ACCOUNT_PASSWORDMATCH                 密码不匹配。
 LAUNCHER_ERRORS_GAMESPY_260                           The provided password was incorrect. Please check the password and try again.
 LAUNCHER_ERRORS_GAMESPY_265                           The provided account name was incorrect. Please check the account name and try again.
 LAUNCHER_ERRORS_GAMESPY_514                           The email address already exists, but the password was incorrect. Please check the password and try again.
